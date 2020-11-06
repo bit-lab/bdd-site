@@ -1,1 +1,9 @@
 # bdd-site
+text
+RDxKhM51hfHTn1So1qW54eb2EaEVicAt
+
+bittx
+NMZKdKNhPXLQfyj60J3ZjJ98z5ezamfC
+
+sxweb
+R4lAU15pR4bRtZX2XA2i5sTohz5FKwq6
